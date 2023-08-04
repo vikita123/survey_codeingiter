@@ -1,0 +1,11 @@
+- Step for setUp
+    - Clone the repository
+    - create a database namely - "survey_codeigniter"
+    - Import sql file- "survey_codeigniter.sql"
+    - Run localhost/survey_codeingiter
+
+ Credetials:
+    admin@gmail.com - Test@123
+    user@gmail.com - Test@123
+
+
